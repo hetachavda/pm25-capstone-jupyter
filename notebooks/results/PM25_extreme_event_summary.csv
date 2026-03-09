@@ -1,0 +1,12 @@
+Metric,Value
+Total Days,3650.0
+Extreme Days,183.0
+Extreme %,5.01
+Average PM2.5 on Extreme Days,71.86
+Max PM2.5,354.62
+Normal Days MAE,3.75
+Normal Days RMSE,5.16
+Normal Days R2,0.048
+Extreme Days MAE,63.86
+Extreme Days RMSE,84.71
+Extreme Days R2,-1.334

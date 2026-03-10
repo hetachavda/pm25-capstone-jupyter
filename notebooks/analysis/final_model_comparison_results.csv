@@ -1,0 +1,11 @@
+Model,MAE,RMSE,R2,Type,Source
+Linear Regression,4.332,13.509,0.546,Machine Learning,Baseline notebook
+Decision Tree,4.439,13.735,0.53,Machine Learning,Decision Tree notebook
+SARIMAX (NO₂),6.21,13.74,0.096,Seasonal + Exogenous,Jaya notebook
+Random Forest,4.582,13.854,0.522,Machine Learning,Random Forest notebook
+SARIMAX (O₃),6.42,13.98,0.081,Seasonal + Exogenous,Your SARIMAX notebook
+SARIMA,6.765,14.517,-0.045,Seasonal Time Series,SARIMA notebook
+Naive Baseline (Lag1),4.632,14.536,0.474,Statistical,Baseline notebook
+ARIMA,7.61,14.638,-0.057,Time Series,ARIMA notebook
+Exponential Smoothing,8.657,14.906,-0.179,Time Series,ETS notebook
+Seasonal Naive (Lag7),8.174,23.891,-0.421,Statistical,Baseline notebook

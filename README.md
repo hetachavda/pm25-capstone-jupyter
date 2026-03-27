@@ -55,7 +55,8 @@ pm25-capstone-jupyter/
 ├── outputs/
 ├── README.md
 ```
-
+![PM2.5 Poster](outputs/final_poster.png)
+---
 ## 📈 Key Results
 - Best Model: Linear Regression  
 - RMSE: ~13.5  

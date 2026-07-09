@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Naive (Lag1),2.988,7.885,0.457
+Linear Regression,2.808,7.284,0.536
+Random Forest,2.956,7.303,0.51
